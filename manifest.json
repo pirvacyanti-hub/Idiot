@@ -1,0 +1,20 @@
+{
+  "name": "Idiot",
+  "short_name": "Idiot",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "black",
+  "icons": [
+    {
+      "src": "0F7EFED4-2755-447E-A7A4-EEAD4BB3E6D8.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "0F7EFED4-2755-447E-A7A4-EEAD4BB3E6D8.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
